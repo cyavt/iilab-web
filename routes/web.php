@@ -14,9 +14,25 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('home');
 });
 
-Route::get('/home', function () {
-    return view('home');
+Route::get('/manage', function () {
+    return view('manage');
+});
+
+Route::get('/doc', function () {
+    return view('doc');
+});
+
+Route::get('/project', function () {
+    return view('project');
+});
+
+Route::get('/software', function () {
+    return view('software');
+});
+
+Route::get('/apidev', function () {
+    return view('apidev');
 });
