@@ -1,3 +1,7 @@
+// import VueRouter from 'vue-router'
+
+// Vue.use(VueRouter)
+
 window.$ = window.jQuery = require('jquery');
 
 require('./bootstrap');

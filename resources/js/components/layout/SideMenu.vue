@@ -31,11 +31,10 @@
                             <span class="nav-label">Trang chủ</span>
                         </a>
                         <ul class="nav nav-second-level">
-                            <li class="active"><a href="index.html">Giới thiệu</a></li>
-                            <li><a href="index.html">Danh sách thành viên</a></li>
-                            <li><a href="index.html">Cơ cấu tổ chức</a></li>
-                            <li><a href="index.html">Thông báo chung <span
-                                        class="label label-danger pull-right">24</span></a></li>
+                            <li class="active"><a href="#">Giới thiệu</a></li>
+                            <li><a href="#">Danh sách thành viên</a></li>
+                            <li><a href="#">Cơ cấu tổ chức</a></li>
+                            <li><a href="#">Thông báo chung <span class="label label-danger pull-right">24</span></a></li>
                         </ul>
                     </li>
 
@@ -45,8 +44,8 @@
                             <span class="fa arrow"></span>
                         </a>
                         <ul class="nav nav-second-level collapse">
-                            <li><a href="index.html">Nhiệm vụ</a></li>
-                            <li><a href="index.html">Điểm danh hoạt động</a></li>
+                            <li><a href="#">Nhiệm vụ</a></li>
+                            <li><a href="#">Điểm danh hoạt động</a></li>
                         </ul>
                     </li>
                     <li>
@@ -55,38 +54,38 @@
                             <span class="fa arrow"></span>
                         </a>
                         <ul class="nav nav-second-level collapse">
-                            <li><a href="graph_flot.html">Nghiên cứu khoa học</a></li>
-                            <li><a href="graph_morris.html">Khởi nghiệp</a></li>
-                            <li><a href="graph_rickshaw.html">Dự án khác</a></li>
+                            <li><a href="#">Nghiên cứu khoa học</a></li>
+                            <li><a href="#">Khởi nghiệp</a></li>
+                            <li><a href="#">Dự án khác</a></li>
                         </ul>
                     </li>
                     <li>
-                        <a href="mailbox.html"><i class="fa fa-book"></i>
+                        <a href="#"><i class="fa fa-book"></i>
                             <span class="nav-label">Tài liệu</span>
                             <span class="fa arrow"></span>
                         </a>
                         <ul class="nav nav-second-level collapse">
-                            <li><a href="mailbox.html">Điện - Điện tử</a></li>
-                            <li><a href="mail_detail.html">Lập trình nhúng</a></li>
-                            <li><a href="mail_compose.html">Công nghệ thông tin</a></li>
-                            <li><a href="mail_compose.html">Tài liệu khác</a></li>
+                            <li><a href="#">Điện - Điện tử</a></li>
+                            <li><a href="#">Lập trình nhúng</a></li>
+                            <li><a href="#">Công nghệ thông tin</a></li>
+                            <li><a href="#">Tài liệu khác</a></li>
                         </ul>
                     </li>
                     <li>
-                        <a href="metrics.html"><i class="fa fa-desktop"></i> <span class="nav-label">Cài đặt phần
+                        <a href="#"><i class="fa fa-desktop"></i> <span class="nav-label">Cài đặt phần
                                 mềm</span> </a>
                     </li>
                     <li>
                         <a href="#"><i class="fa fa-code"></i> <span class="nav-label">API DEV</span><span
                                 class="fa arrow"></span></a>
                         <ul class="nav nav-second-level collapse">
-                            <li><a href="form_basic.html">Convert image to text</a></li>
-                            <li><a href="form_advanced.html">Auto Click</a></li>
-                            <li><a href="form_file_upload.html">File Upload</a></li>
+                            <li><a href="#">Convert image to text</a></li>
+                            <li><a href="#">Auto Click</a></li>
+                            <li><a href="#">File Upload</a></li>
                         </ul>
                     </li>
                     <li class="special_link">
-                        <a href="package.html"><i class="fa fa-database"></i> <span class="nav-label">ADMIN</span></a>
+                        <a href="#"><i class="fa fa-database"></i> <span class="nav-label">ADMIN</span></a>
                     </li>
                 </ul>
 

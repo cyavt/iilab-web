@@ -44,21 +44,6 @@
 
     <!-- Toastr -->
     <script src="{{ asset('js/plugins/toastr/toastr.min.js') }}"></script>
-
-    <script>
-        $(document).ready(function() {
-            setTimeout(function() {
-                toastr.options = {
-                    closeButton: true,
-                    progressBar: true,
-                    showMethod: 'slideDown',
-                    timeOut: 4000
-                };
-                toastr.success('Hello Word', 'Welcome to Nguyễn Văn Trúc');
-
-            }, 1300);
-        });
-    </script>
     
 </body>
 

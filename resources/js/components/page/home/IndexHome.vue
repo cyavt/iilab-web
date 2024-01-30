@@ -24,5 +24,17 @@ export default {
         "IndexComponent": IndexComponent,
         "notice-home": NoticeHome,
     },
+    mounted() {
+        setTimeout(function () {
+            toastr.options = {
+                closeButton: true,
+                progressBar: true,
+                showMethod: 'slideDown',
+                timeOut: 4000
+            };
+            toastr.success('Hello Word', 'Welcome to Nguyễn Văn Trúc');
+        }, 1000);
+    },
 }
+
 </script>
